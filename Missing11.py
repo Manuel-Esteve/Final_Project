@@ -1,7 +1,7 @@
 import random
 
 
-def main():
+def missing11():
     teams = {
         "Liverpool (2019 Champions League)": [
             ("GK", "Becker"),
@@ -182,4 +182,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    missing11()
